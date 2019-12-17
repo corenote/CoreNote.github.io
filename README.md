@@ -1,0 +1,2 @@
+# CoreNote.github.io
+CoreNote
